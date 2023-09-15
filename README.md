@@ -36,6 +36,7 @@ You can download the source files directly from the [GitHub repository](https://
 
 ```html
 <script src="path/to/particles.js"></script>
+<script src="path/to/app.js"></script>
 ```
 
 #### Option 2: Use a Package Manager
@@ -90,6 +91,6 @@ Special thanks to the creators and maintainers of [particles.js](https://github.
 
 ## About the Author
 
-This project is maintained by [Your Name](https://github.com/codewithhamza1). Connect with me on [GitHub](https://github.com/codewithhamza1) for updates and more open-source projects!
+This project is maintained by [Mahar Hamza](https://github.com/codewithhamza1). Connect with me on [GitHub](https://github.com/codewithhamza1) for updates and more open-source projects!
 
 Thank you for using `particles-js`! We hope you enjoy adding stunning particle animations to your web projects.
