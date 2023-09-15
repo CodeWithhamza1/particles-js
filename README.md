@@ -6,7 +6,7 @@
 
 `particles-js` is a free and open-source JavaScript library for adding beautiful animated particles to your web projects. It allows you to create eye-catching particle animations that can be easily integrated into websites, web apps, or any other web-based project. Whether you want to add a subtle background effect or create a stunning homepage animation, `particles-js` makes it simple and customizable.
 
-![Particles Demo](demo.gif)
+![Particles Demo](Captu555re.PNG)
 
 ### Features
 
