@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Particles.JS</title>
+</head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@700&display=swap');
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Baloo 2', cursive;
+        }
+        body{
+            background-color: #acacac;
+            overflow: hidden;
+        }
+        .main{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-image: linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.7)), url('bg.png');
+            background-size: cover;
+            color: white;
+            height: 500px;
+            width: 100%;
+            margin-top: 12%;
+            overflow: hidden;
+        }
+        h1{
+            text-align: center;
+            position: absolute;
+            color: #ccc;
+            
+        }
+        span{
+            color: darkorange;
+        }
+        .red{
+            color: rgb(192, 59, 59);
+        }
+    </style>
+<body>
+    <div class="main" id="particles-js">
+        <h1>Mahar Hamza - <span>Web</span> <span class="red">Designer</span></h1>
+    </div>
+
+    <script src="particles.js"></script>
+    <script src="app.js"></script>
+    
+</body>
+</html>
